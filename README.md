@@ -129,3 +129,5 @@ This project is licensed under the **MIT License** — feel free to use and modi
 Developed by [Krupal Fataniya](https://github.com/krupal-036)
 
 Feel free to contribute or fork the project!
+
+For any issues, feel free to ask [Krupal](mailto:krupalfataniya007@gmail.com). 😊
